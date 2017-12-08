@@ -43,8 +43,8 @@ typedef NS_ENUM(NSUInteger, CaptureContextType)
 @interface CaptureManager : NSObject
 
 // delegate
-@property (nonatomic) id<CaptureManagerDelegate> capturedelegate;
-@property (nonatomic) id<CaptureNowImageDelegate> nowImageDelegate;
+@property (nonatomic,weak) id<CaptureManagerDelegate> capturedelegate;
+@property (nonatomic,weak) id<CaptureNowImageDelegate> nowImageDelegate;
 
 // Device orientation
 @property (nonatomic) CMMotionManager *motionManager;
