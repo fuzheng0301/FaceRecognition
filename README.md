@@ -246,5 +246,5 @@
 
 ## 尾声
 
-Demo的gitHub地址为：https://github.com/fuzheng0301/FaceRecognition，讲解博客在：https://www.jianshu.com/p/1b7ae429f14c，如果感觉还可以，感谢点击star，大家的支持是我不断努力源源不断的动力。
+Demo的gitHub地址为：[https://github.com/fuzheng0301/FaceRecognition](https://github.com/fuzheng0301/FaceRecognition)，讲解博客在：[https://www.jianshu.com/p/1b7ae429f14c](https://www.jianshu.com/p/1b7ae429f14c)，如果感觉还可以，感谢点击star，大家的支持是我不断努力源源不断的动力。
 
